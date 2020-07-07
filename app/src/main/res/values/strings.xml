@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Intouch Launcher</string>
+    <string name="button1Text" translatable="false">WHITEBOARD</string>
+    <string name="button2Text" translatable="false">INPUT</string>
+    <string name="button3Text" translatable="false">SCREENCAST</string>
+    <string name="button4Text" translatable="false">APPS</string>
+    <string name="uninstall" translatable="false">Uninstall</string>
+    <string name="all_applications" translatable="false">All Applications</string>
+</resources>

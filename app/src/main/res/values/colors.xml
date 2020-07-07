@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="timeColor">#fff</color>
+    <color name="dateColor">#fff</color>
+    <color name="mainUIButtonTextColor">#fff</color>
+    <color name="icon_background">#22666666</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

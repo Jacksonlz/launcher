@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button1Text">白板</string>
+    <string name="button2Text">信號源</string>
+    <string name="button3Text">投屏</string>
+    <string name="button4Text">應用</string>
+    <string name="uninstall">卸载</string>
+    <string name="all_applications">所有應用</string>
+</resources>

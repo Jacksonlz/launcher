@@ -1,2 +1,2 @@
 # Bosshub_Launcher
-Bosshub的桌面启动器
+安卓的桌面启动器
